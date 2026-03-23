@@ -26,7 +26,7 @@ My goal is to create high-performance yet versatile systems that could be used b
 
 ## What I'm working on now
 
-I am building Rust-based tools for game development. My goal isn't to create a replacement of Unreal Engine, but to master engineering by solving complex architectural problems from scratch. But who knows, maybe that will turn into something bigger...
+Currently I am building Rust-based tools for game development. Such is being my implementation of frame graph. 
 
 
 ## Stats  
